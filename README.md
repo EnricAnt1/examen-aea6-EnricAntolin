@@ -11,3 +11,7 @@
 | ------------ | ------------ |
 | DAW          | Batxillerat  |
 | Fisioterapia | FreeCodeCamp |
+
+
+## EXERCICI 4
+Modificació des de GitHub 16/10/2026
